@@ -1,2 +1,10 @@
-# etl-customers-pandas
-Mini ETL: clean customers with Pandas + tests + CI
+# Data Pipeline — Customers (Pandas)
+
+Mini-pipeline pentru curățare clienți (email, duplicate, date) și încărcare în SQLite.
+
+## Run
+```bash
+python -m venv .venv
+. .\.venv\Scripts\activate
+pip install -r requirements.txt
+python src/pipeline.py

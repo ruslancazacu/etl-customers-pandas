@@ -1,0 +1,4 @@
+name,email,phone,signup_date,country
+Ana, Ana@ExAMPLE.COM ,111,2025-01-01,CH
+Ana,ana@example.com,111,2025-01-01,CH
+Bob,bob@example.com,222,not_a_date,
